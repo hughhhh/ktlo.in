@@ -1,5 +1,5 @@
 .App {
-  font-family: "Inter", sans-serif;
+  font-family: "DM Mono", "Inter", monospace;
   display: flex;
   flex-direction: column;
   justify-content: left;
