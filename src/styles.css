@@ -1,0 +1,10 @@
+.App {
+  font-family: "Inter", sans-serif;
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+}
+
+p {
+  margin: 0px 100px;
+}
