@@ -5,7 +5,12 @@
   justify-content: left;
   padding: 15px;
   margin: 10px 10px;
+  background-color: #fdf5e6;
 }
 
-p {
+body {
+  background-color: #fdf5e6;
+  text-decoration: none;
+  text-decoration-style: black;
+  height: 100%;
 }
