@@ -37,9 +37,9 @@ class App extends React.Component {
         <h1>💡</h1>
         <h2>KTLO</h2>
         <p>
-          Keeping the lights on presents a 5 day experiment with the best
+          Keep the lights on presents a 5 day experiment with several
           upcoming artist. Creating an environment from them to collaborate and
-          produce the best music.
+          produce a musical and visual project.
         </p>
 
         <p>
