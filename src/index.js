@@ -35,17 +35,18 @@ class App extends React.Component {
     return (
       <div className="App">
         <h1>💡</h1>
-        <h2>KTLO</h2>
-        <p>
-          Keep the lights on presents a 5 day experiment with several
-          upcoming artist. Creating an environment from them to collaborate and
-          produce a musical and visual project.
-        </p>
+        <h2>KTLO1</h2>
+        {/* <p>
+          Keep the lights on presents a 5 day experiment with several upcoming
+          artist. Creating an environment from them to collaborate and produce a
+          musical and visual project.
+        </p> */}
 
         <p>
-          <b>Featuring x</b> @shilla @vern @swellshark @georgenaux
+          <b>Featuring x</b> @shillaswazy @vantman @swellsharkband @georgenaux
+          @adamm_hendrix @hughmil.es
         </p>
-        <p>Join us for a spectacle in time ✨</p>
+        {/* <p>Join us for a spectacle in time ✨</p> */}
         <h3>Launch</h3>
         <span>{formatTime(launchDate)} days</span>
       </div>
