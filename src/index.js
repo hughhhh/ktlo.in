@@ -13,6 +13,19 @@ const AGE_FORMAT = ".20s";
 
 const formatTime = (temps) => format(AGE_FORMAT)(temps);
 
+import Waterfall from "waterfall-react";
+
+let images = [
+  ["http://lorempixel.com/1200/100/", "message0"],
+  ["http://lorempixel.com/1000/800/", "message1"],
+  ["http://lorempixel.com/1200/300/", "message2"],
+  ["http://lorempixel.com/1200/200/", "message3"],
+  ["http://lorempixel.com/1200/400/", "message4"],
+  ["http://lorempixel.com/1200/300/", "message5"],
+  ["http://lorempixel.com/1200/200/", "message6"],
+  ["http://lorempixel.com/1200/400/", "message7"]
+];
+
 class App extends React.Component {
   constructor(props) {
     super(props);
@@ -41,7 +54,7 @@ class App extends React.Component {
           artist. Creating an environment from them to collaborate and produce a
           musical and visual project.
         </p> */}
-
+        <Waterfall column="3" image={images} />
         <p>
           <b>Featuring x</b> @shillaswazy @vantman @swellsharkband @georgenaux
           @adamm_hendrix @hughmil.es @chrisjereza
