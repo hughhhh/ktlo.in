@@ -16,7 +16,7 @@ const formatTime = (temps) => format(AGE_FORMAT)(temps);
 class App extends React.Component {
   constructor(props) {
     super(props);
-    const launchDate = moment().unix() - moment("20210929", "YYYYMMDD").unix();
+    const launchDate = moment().unix() - moment("20211205", "YYYYMMDD").unix();
 
     this.state = {
       launchDate: launchDate * SECONDS_IN_DAY
@@ -44,7 +44,7 @@ class App extends React.Component {
 
         <p>
           <b>Featuring x</b> @shillaswazy @vantman @swellsharkband @georgenaux
-          @adamm_hendrix @hughmil.es
+          @adamm_hendrix @hughmil.es @chrisjereza
         </p>
         {/* <p>Join us for a spectacle in time ✨</p> */}
         <h3>Launch</h3>
