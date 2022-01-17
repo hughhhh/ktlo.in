@@ -13,6 +13,12 @@ module.exports = {
         permanent: false,
         basePath: false
       },
+      {
+        source: '/one/register',
+        destination: 'https://0xhugh.mintgate.io/go/m2yWM0x_ODjr/',
+        permanent: false,
+        basePath: false
+      },
     ]
   },
   reactStrictMode: true,
