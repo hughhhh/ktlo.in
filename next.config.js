@@ -9,13 +9,13 @@ module.exports = {
       },
       {
         source: '/one',
-        destination: 'https://0xhugh.mintgate.io/go/3SwzVDqtVyGI/',
+        destination: 'https://0xhugh.mintgate.io/go/gc96wtDrWOnR/',
         permanent: false,
         basePath: false
       },
       {
         source: '/one/register',
-        destination: 'https://0xhugh.mintgate.io/go/m2yWM0x_ODjr/',
+        destination: 'https://0xhugh.mintgate.io/go/gKQCB53lddXe/',
         permanent: false,
         basePath: false
       },
