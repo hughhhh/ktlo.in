@@ -15,7 +15,7 @@ module.exports = {
       },
       {
         source: '/one/register',
-        destination: 'https://mgate.io/go/9o0wppyoYrVZ/',
+        destination: 'https://mgate.io/go/3NkKdvMbT-Ef/',
         permanent: false,
         basePath: false
       },
