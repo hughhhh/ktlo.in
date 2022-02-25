@@ -9,7 +9,7 @@ module.exports = {
       },
       {
         source: '/one',
-        destination: 'https://mgate.io/go/41FjZKXhbbMh/',
+        destination: 'https://mgate.io/go/m9OGvkhbcTjq/',
         permanent: false,
         basePath: false
       },
