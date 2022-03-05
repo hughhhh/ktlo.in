@@ -9,13 +9,13 @@ module.exports = {
       },
       {
         source: '/one',
-        destination: 'https://mgate.io/go/eCNYbrP-Jfhj/',
+        destination: 'https://mgate.io/go/wOwW7Ljb6iF7/',
         permanent: false,
         basePath: false
       },
       {
         source: '/one/register',
-        destination: 'https://mgate.io/go/l5ZFLFner9ll/',
+        destination: 'https://mgate.io/go/Su5oELsI9aa6/',
         permanent: false,
         basePath: false
       },
